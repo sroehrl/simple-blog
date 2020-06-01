@@ -1,0 +1,6 @@
+{
+    "require": {
+        "blua-blue/blua-blue-php-sdk": "^1.0",
+        "neoan3-apps/template": "^1.0"
+    }
+}
