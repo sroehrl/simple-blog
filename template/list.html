@@ -1,0 +1,8 @@
+<div class="container">
+    <div class="card" n-for="articles as article">
+        <h2>{{article.name}}</h2>
+        <p>{{article.teaser}}</p>
+        <a href="blog.php?slug={{article.slug}}">read more</a>
+    </div>
+</div>
+
