@@ -2,6 +2,10 @@
 
 **clone, style, use.**
 
+Fully customizable & designable with pure CSS & HTML with little to no PHP knowledge required.
+
+Demo:
+
 ![demo](template/demo.gif)
 
 As easy as it gets:
@@ -25,6 +29,9 @@ Use any CSS-framework, any markup, any PHP framework.
 #### Templates
 
 `template/main.html` (HTML skeleton)
+
 `template/list.html` (article-list markup)
+
 `template/blog.html` (single article markup)
+
 `template/style.css` (demo style)
